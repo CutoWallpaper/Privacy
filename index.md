@@ -1,4 +1,6 @@
-# Privacy Policy
+---
+title: Privacy Policy
+---
 
 Cuto Wallpaper built the Cuto app as a Free app. This SERVICE is provided by Cuto Wallpaper at no cost and is intended for use as is.
 
